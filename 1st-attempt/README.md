@@ -4,7 +4,7 @@ The `vector<pair<float,string>> vp;` stores the total marks and enrollment numbe
 
 While displaying the list, it is displayed in sorted order while using the mapped value of the name instead of the enrollment number.
 
-### Code 
+### Code
 
 ```cpp
 // Created by Sharat Sachin
